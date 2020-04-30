@@ -1,8 +1,18 @@
 Hi this yaganti Document
 
-Open the any folder  create the one new folder  Bridge right click test right click  
+Step:1   
+ Open the any folder  create the one new folder  Bridge right click test right click  
 Get bus ls get init initialize get empty repository
+
 Step :2
  Go to the folder  test openwrite the any files  open mingw64 Git add . Git status Git commit –m “file is added
+
 Step :3 
  Open the Get hub loginusers clickrepositorynew repository name(write the any name)samplepubliccreate repositoryget remote origin “url” open cmd fromshift insert copyenterGet push origin master (any net problem unable axis error)
+
+Step:4
+ open repositoryyagantivenkatesrepositorytest
+Repository Editing process
+Step 1:
+Edit adding some lines commit change updated new lines  commit change git pull origin master cheek it url local repository
+Push local repository code using push concept (git repository to local repository code full command using(both are the commends small change

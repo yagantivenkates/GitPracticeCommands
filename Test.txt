@@ -78,3 +78,32 @@ Terminal Conditions
 23.	Head /etc (top line shows)
 24.	Tail /etc/passwd (bottom lines shows)
 25.	Tail  -20/etc/passwd  (show the bottom of the lines)
+
+small length condition
+------------------------
+26.	Find  .  –size  +5M –name *.pdf(find the as type of file those are is greater then 5mb size those extensions is pdf)
+27.	find  .  –size +5M –type F –name.*pdf
+28.	find  .  -size +5M F |grep *.pdf
+29.	cat  data .csv 
+30.	find linux-content /-n *.csv
+31.	grep  –| caption
+32.	grep  –ir  caption
+33.	ls  –p | grep  (global regular expression)
+34.	grep  –v caption
+35.	env
+36.	env  | grep –| name
+37.	env  | grep –| user
+38.	echo $USER
+39.	echo $SHELL
+40.	echo bash
+41.	bash [String]
+42.	bash –version (show the bash version)
+43.	echo [String] (echo “yvs” %p=yvs
+44.	du  –sh (file name)
+45.	du  –sm
+46.	du  –sk
+47.	where is short
+48.	du –sk  yvs/*
+49.	du –sk yvs/* /sort –n
+50.	du –sk yvs/* /sort –ne
+51.	find –type F –empty

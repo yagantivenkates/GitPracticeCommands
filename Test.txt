@@ -35,3 +35,18 @@ Git checkout –b chailed
 Git add . git status
 Step 1: 
 open the folder add spme conceptcreategit add .-->git statusgit commit –m “childtest added”git push origin chailedopen repositorymaster openchailed
+
+Merging Process:
+---------------
+Step 1: 
+git checkout mastergit merge childgit add .-->git statusgit push origin master
+Step 2:
+open repositorymaster checket
+Step 3:
+git chek out master
+Step 4:
+ adding local repositoryctrl+sgit add .-->git statusgit commit –m “update master”git push origin master
+Step 5:
+branch chilled git checkout to branch “child”git merge mastergit statusgit push origin master
+Step6:
+History  >history.txtgit add history git statusgit commit –m “history add” git push origin master

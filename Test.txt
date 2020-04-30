@@ -50,3 +50,31 @@ Step 5:
 branch chilled git checkout to branch “child”git merge mastergit statusgit push origin master
 Step6:
 History  >history.txtgit add history git statusgit commit –m “history add” git push origin master
+
+Terminal Conditions
+---------------------
+1.	Mkdir 
+2.	Cd
+3.	Ls
+4.	Pwd
+5.	Ls ~  (home directory file)
+6.	Cd ~ go to home directory
+7.	Cd  – (go to home folder)
+8.	Ls  –a (hidden all files)
+9.	Ls  –al    (hidden all files with long formal)
+10.	Ls ..  (show the parent directory)
+11.	Cd  .. (change the directory go to get back)
+12.	Mkdir  –p(make anext directory m_p)
+13.	Rm –r (remove directory)
+14.	Touch a.txt b.txt c.txt create the files
+15.	Ls  –l (show the long deseription)
+16.	Ls  –p(show the short deseription)
+17.	Cp a.txt b.txt c.txt
+18.	Where cp(show the path of directory)(where is cp)
+19.	Ls –l/bin  (show the bin directory files in bin directory)
+20.	Ls  /etc/passwd
+21.	Cat  /etc/passwd (go to the files show)
+22.	Less  /etc/passwd(less view to the passwd)
+23.	Head /etc (top line shows)
+24.	Tail /etc/passwd (bottom lines shows)
+25.	Tail  -20/etc/passwd  (show the bottom of the lines)

@@ -16,3 +16,12 @@ Repository Editing process
 Step 1:
 Edit adding some lines commit change updated new lines  commit change git pull origin master cheek it url local repository
 Push local repository code using push concept (git repository to local repository code full command using(both are the commends small change
+
+Conflux problem
+
+Step 1:
+ open repository edit add some lines commit changes adding new points
+Step 2:
+open your folder adding some another pointsget add . get statusget commit –m “updated the new point conflict example”get push origin masterget pull origin master
+Step 3:
+Open your folderremove the conflict linesctrl+sget add .-->get statusget commit –m “resolved problem conflux”get push origin master

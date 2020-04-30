@@ -107,3 +107,17 @@ small length condition
 49.	du –sk yvs/* /sort –n
 50.	du –sk yvs/* /sort –ne
 51.	find –type F –empty
+
+java linux commands
+--------------------
+52.	jobs
+53.	ps –elf | grep java | grep –v grep
+54.	ps –elf | grep java
+55.	ps –elf | grep java | grep –grep
+56.	echo hello tom | awk “{$=”admin”}{echo $o}”
+57.	echo hello tom | awk “{$2=”admin”}{print $}”
+58.	echo hello tom | awk ‘BEGIN{$2=”admin”}END{print $0}
+59.	cat data.csv
+60.	cat data .csv | grep –I CAPTION
+61.	cat data.csv | grep –I CAPTION | awk ‘{print$2’’$4’}
+62.	cat data.csv | grep –I caption | awk ‘{sum+=$4}END{print sum}’
